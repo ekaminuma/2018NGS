@@ -13,11 +13,14 @@
 講義場所：東京医科歯科大学M&Dタワー情報検索室（図書館3Fから入る）
 環境設定：情報検索室ＰＣには事前インストール済
 
-自分で環境設定したい方は、以下参照
-事前準備：
-Anacondaをインストール
-次のライブラリをAnaconda promptでインストール(conda install ***)
+---
+---
 
-  - rpy2  pythonからRを呼び出す
-  - tensorflow : 深層学習ライブラリ
-  - keras  : tensorflowのラッパーライブラリ
+- 自分で環境設定したい方は、以下参照
+- 事前準備： 
+1.  Anacondaをインストール
+2.  次のライブラリをAnaconda promptでインストール(conda install ***)
+
+    - rpy2  pythonからRを呼び出す
+    - tensorflow : 深層学習ライブラリ
+    - keras  : tensorflowのラッパーライブラリ
