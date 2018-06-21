@@ -21,6 +21,7 @@
 1.  Anacondaをインストール
 2.  次のライブラリをAnaconda promptでインストール(conda install ***)
 
+    - biopython
     - rpy2  pythonからRを呼び出す
     - tensorflow : 深層学習ライブラリ
     - keras  : tensorflowのラッパーライブラリ
